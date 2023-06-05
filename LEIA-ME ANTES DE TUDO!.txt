@@ -1,0 +1,36 @@
+ESSE É UM SISTEMA GRATIS, SE VOCE PAGOU POR ELE VOCÊ FOI ROUBADO!
+ESSE É UM SISTEMA GRATIS, SE VOCE PAGOU POR ELE VOCÊ FOI ROUBADO!
+
+
+
+Prazer, me chamo Vitor e sou conhecido como trader @vitinwintrader e como programador @sochniy.
+
+Sou desenvolvedor desse "Gerenciamento de Banca" e atualmente esta na versão BETA por enquanto.
+Um sistema simples e facil e possui muita utilidade para guardar ganhos diarios, semanais, mensais e entre outros para um gerenciamento de banca, tudo salvo dentro de um .txt (ganhos.txt) Caso não queria perder seu historico de operações, favor não remover o .txt da pasta :)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Aplicativo (Gerenciamento de Banca):
+
+Serve para você guardar seus ganhos/perdas diários e fazer uma análise e dizer quanto você ganhou/perder no mês/semana/dia.
+
+ 
+Aplicativo (Lucro):
+
+Serve para você colocar suas entradas e o payout, vai sair um resultado: Lucro atual R$XXX,XX.
+Você pega esse lucro e coloca no outro aplicativo (Gerenciamento de Banca)
+    (IRÃO FICAR GUARDADOS DENTRO DO ARQUIVO .TXT DA PASTA.)
+
+
+
+
+-----------------------------
+	CONTACT-ME
+-----------------------------
+
+
+Qualquer duvida ou algum problema, por favor me chamar no Instagram ou Discord:
+Instagram: @vitinwintrader
+Discord: Sochniy#4770
+github: https://github.com/sochni
